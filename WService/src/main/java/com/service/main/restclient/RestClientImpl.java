@@ -18,7 +18,7 @@ import org.springframework.web.client.RestTemplate;
 @Service
 public class RestClientImpl implements RestClient {
 
-    final private String host = "http://localhost:8080/service";
+    final private String host = "http://localhost:8084/service";
 
     @Override
     public List<Autor> autores() {
