@@ -6,7 +6,7 @@ Este proyecto contiene la funcionalidad de la prueba con las siguientes detalles
 2. Se conecta a una base de Datos PostgreSQL
 
 ## Componente de Servicio REST
-Es un controlador Rest JSON que provee los datos y los metodos.
+Es un controlador Rest JSON que provee los datos y los métodos.
 Este componente consta de un Controlador Rest @RestController
 
 ## Componente Cliente WEB
