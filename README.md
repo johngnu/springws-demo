@@ -1,6 +1,19 @@
 # springws-demo
 Implementación de la prueba
-# Descripción
+## Descripción
 Este proyecto contiene la funcionalidad de la prueba con las siguientes detalles
-## Componente de Servicio
-Es un controlador Rest JSON que provee los datos y los metodos 
+1. Esta implementado en Spring Boot (Maven)
+2. Se conecta a una base de Datos PostgreSQL
+
+## Componente de Servicio REST
+Es un controlador Rest JSON que provee los datos y los metodos.
+Este componente consta de un Controlador Rest @RestController
+
+## Componente Cliente WEB
+Es un controlador Web desarrollado con bootsatrap 4 (Responsive HTML5), ademas, de tablas 
+mejoradas con DataTables.
+Este componente consta de un Controlador WebMVC @Controller con vistas (Views) JSP
+Y un componente RestClient
+
+ 
+
