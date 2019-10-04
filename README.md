@@ -2,7 +2,7 @@
 Implementación de la prueba
 ## Descripción
 Este proyecto contiene la funcionalidad de la prueba con las siguientes detalles
-1. Esta implementado en Spring Boot (Maven)
+1. Está implementado en Spring Boot (Maven)
 2. Se conecta a una base de Datos PostgreSQL
 
 ## Componente de Servicio REST
