@@ -11,6 +11,9 @@ public class ServiceApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		// coment for me
+		int a = 2;
+		
 	}
 
 }
