@@ -1,5 +1,6 @@
 # springws-demo
-Implementación de la prueba
+Implementación de Servicios Rest con Java Spring.  Ejecuta esta demo en NetBeans 8.2 con una Base de Datos PorgresSQL 9.6.
+
 ## Descripción
 Este proyecto contiene la funcionalidad de la prueba con las siguientes detalles
 1. Está implementado en Spring Boot (Maven)
@@ -14,6 +15,3 @@ Es un controlador Web desarrollado con bootsatrap 4 (Responsive HTML5), ademas, 
 mejoradas con DataTables.
 Este componente consta de un Controlador WebMVC @Controller con vistas (Views) JSP
 Y un componente RestClient
-
- 
-
